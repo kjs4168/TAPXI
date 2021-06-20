@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\NodejsWebApp1\NodejsWebApp1\obj\Debug\TAPXI.njsproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\NodejsWebApp1\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Admin\source\repos\NodejsWebApp1\NodejsWebApp1\obj\Debug\TAPXI.njsprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\TAPXI\NodejsWebApp1\NodejsWebApp1\obj\Debug\TAPXI.njsprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\TAPXI\NodejsWebApp1\NodejsWebApp1\obj\Debug\TAPXI.njsproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\TAPXI\NodejsWebApp1\NodejsWebApp1\bin\Microsoft.NodejsTools.WebRole.dll
